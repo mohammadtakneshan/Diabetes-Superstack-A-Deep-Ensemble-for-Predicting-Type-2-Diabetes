@@ -1,0 +1,15 @@
+# requirements.txt
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+tensorflow
+keras
+optuna
+lightgbm
+xgboost
+imbalanced-learn
+tpot
+h2o
+sklearn-genetic-opt
